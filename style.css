@@ -1,0 +1,11 @@
+body {
+    background:linear-gradient(#a3fff1 0%, #2dff7e 100%);
+}
+button{
+    background-color: rgb(255, 243, 114);
+    color: rgb(255, 255, 255);
+}
+img {
+    width: 80px;
+    height: 80px;
+}
